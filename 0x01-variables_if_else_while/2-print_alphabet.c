@@ -6,10 +6,16 @@
 */
 int main(void)
 {
+	/**
+	 * main - print the alphabet in lower case
+	 *
+	 * return 0 (success)
+	*/
 	char ch;
 		for (ch = 'a'; ch <= 'z'; ch++)
 		{
 		putchar(ch);
 		}
-	return (0);
+	putchar("\n"); /*Print a newline after printing the alphabet*/
+	return (0); /*indicate sucess*/
 }
