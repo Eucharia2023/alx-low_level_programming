@@ -1,4 +1,4 @@
-#include "main.hi"
+#include "main.h"
 /**
  * main - code that output a single line
  *
