@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+3-main.c
+>>>>>>> ecf7bf8c5b77711fe4ee2de8b3e20a955172e89e
 #include "main.h"
 #include <stdio.h>
 
