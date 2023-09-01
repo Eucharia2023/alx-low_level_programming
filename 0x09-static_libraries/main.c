@@ -1,4 +1,11 @@
 #include "main.h"
+#include <stdio.h>
+
+/**
+ * main - content
+ * descripting: print
+ * return:(0)
+ */
 
 int main(void)
 {
